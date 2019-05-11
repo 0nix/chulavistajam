@@ -1,3 +1,0 @@
-U:\Projects\ChulaVista\chulavistajam\ue4\boxes\Source\boxes\boxes.Build.cs
-U:\Projects\ChulaVista\chulavistajam\ue4\boxes\Source\boxes.Target.cs
-U:\Projects\ChulaVista\chulavistajam\ue4\boxes\Source\boxesEditor.Target.cs
