@@ -1,9 +1,0 @@
-U:\Projects\ChulaVista\chulavistajam\ue4\boxes\Intermediate\Build\Win64\UE4Editor\Development\boxes\Definitions.boxes.h
-U:\Engine\UE_4.22\Engine\Source\Runtime\CoreUObject\Public\UObject/GeneratedCppIncludes.h
-U:\Engine\UE_4.22\Engine\Source\Runtime\CoreUObject\Public\UObject/MetaData.h
-U:\Projects\ChulaVista\chulavistajam\ue4\boxes\Source\boxes/boxesGameModeBase.h
-U:\Engine\UE_4.22\Engine\Source\Runtime\Engine\Classes\GameFramework/GameModeBase.h
-U:\Engine\UE_4.22\Engine\Source\Runtime\Engine\Classes\Engine/ServerStatReplicator.h
-U:\Engine\UE_4.22\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\ServerStatReplicator.generated.h
-U:\Engine\UE_4.22\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\GameModeBase.generated.h
-u:\projects\chulavista\chulavistajam\ue4\boxes\intermediate\build\win64\ue4editor\inc\boxes\boxesGameModeBase.generated.h
