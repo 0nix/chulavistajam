@@ -1,0 +1,16 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-boxes.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"U:\Projects\ChulaVista\chulavistajam\ue4\boxes\Intermediate\Build\Win64\boxesEditor\Development\Engine\SharedPCH.Engine.h.obj"
+"U:\Projects\ChulaVista\chulavistajam\ue4\boxes\Intermediate\Build\Win64\UE4Editor\Development\boxes\boxes.cpp.obj"
+"U:\Projects\ChulaVista\chulavistajam\ue4\boxes\Intermediate\Build\Win64\UE4Editor\Development\boxes\boxesGameModeBase.cpp.obj"
+"U:\Projects\ChulaVista\chulavistajam\ue4\boxes\Intermediate\Build\Win64\UE4Editor\Development\boxes\boxes.init.gen.cpp.obj"
+"U:\Projects\ChulaVista\chulavistajam\ue4\boxes\Intermediate\Build\Win64\UE4Editor\Development\boxes\boxesGameModeBase.gen.cpp.obj"
+"U:\Projects\ChulaVista\chulavistajam\ue4\boxes\Intermediate\Build\Win64\UE4Editor\Development\boxes\Default.rc2.res"
+/OUT:"U:\Projects\ChulaVista\chulavistajam\ue4\boxes\Intermediate\Build\Win64\UE4Editor\Development\boxes\UE4Editor-boxes.lib"
+/INCLUDE:IMPLEMENT_MODULE_boxes

@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\boxes.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{39A80F57-5869-41D2-80C8-20DA7701DE76}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\boxes.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\boxesEditor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <Filter Include="Config">
+      <UniqueIdentifier>{455609B6-7584-431F-A220-BCD4FA9C6542}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\boxes">
+      <UniqueIdentifier>{568D612A-4CEA-4CE8-9AEB-B37011EEBE5D}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\boxes\boxes.Build.cs">
+      <Filter>Source\boxes</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\boxes\boxes.cpp">
+      <Filter>Source\boxes</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\boxes\boxes.h">
+      <Filter>Source\boxes</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\boxes\boxesGameModeBase.cpp">
+      <Filter>Source\boxes</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\boxes\boxesGameModeBase.h">
+      <Filter>Source\boxes</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>
