@@ -1,2 +1,2 @@
-U:\Projects\ChulaVista\chulavistajam\ue4\boxes\Intermediate\Build\Win64\UE4Editor\Development\boxes\Definitions.boxes.h
-u:\projects\chulavista\chulavistajam\ue4\boxes\source\boxes\boxes.h
+D:\Documents\New GitHub Repo\VRMay_10-14_2019\chulavistajam\ue4\boxes\Intermediate\Build\Win64\UE4Editor\Development\boxes\Definitions.boxes.h
+d:\documents\new github repo\vrmay_10-14_2019\chulavistajam\ue4\boxes\source\boxes\boxes.h

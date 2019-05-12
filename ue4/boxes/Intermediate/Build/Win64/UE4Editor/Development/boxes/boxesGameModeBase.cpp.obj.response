@@ -28,9 +28,9 @@
 /wd4838
 /we4668
 /I .
-/I U:\Projects\ChulaVista\chulavistajam\ue4\boxes\Intermediate\Build\Win64\UE4Editor\Inc\boxes
-/I U:\Projects\ChulaVista\chulavistajam\ue4\boxes\Source
-/I U:\Projects\ChulaVista\chulavistajam\ue4\boxes\Source\boxes
+/I "D:\Documents\New GitHub Repo\VRMay_10-14_2019\chulavistajam\ue4\boxes\Intermediate\Build\Win64\UE4Editor\Inc\boxes"
+/I "D:\Documents\New GitHub Repo\VRMay_10-14_2019\chulavistajam\ue4\boxes\Source"
+/I "D:\Documents\New GitHub Repo\VRMay_10-14_2019\chulavistajam\ue4\boxes\Source\boxes"
 /I Runtime
 /I Runtime\Core\Public
 /I Runtime\Core
@@ -430,17 +430,16 @@
 /I ThirdParty\libSampleRate\Public
 /I ThirdParty\libSampleRate
 /I "C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\INCLUDE"
-/I "C:\Program Files (x86)\Windows Kits\NETFXSDK\4.6.1\include\um"
-/I "C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\ucrt"
-/I "C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\shared"
-/I "C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\um"
-/I "C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\winrt"
-/FI"U:\Projects\ChulaVista\chulavistajam\ue4\boxes\Intermediate\Build\Win64\boxesEditor\Development\Engine\SharedPCH.Engine.h"
-/Yu"U:\Projects\ChulaVista\chulavistajam\ue4\boxes\Intermediate\Build\Win64\boxesEditor\Development\Engine\SharedPCH.Engine.h"
-/Fp"U:\Projects\ChulaVista\chulavistajam\ue4\boxes\Intermediate\Build\Win64\boxesEditor\Development\Engine\SharedPCH.Engine.h.pch"
-"U:\Projects\ChulaVista\chulavistajam\ue4\boxes\Source\boxes\boxesGameModeBase.cpp"
-/FI"U:\Projects\ChulaVista\chulavistajam\ue4\boxes\Intermediate\Build\Win64\UE4Editor\Development\boxes\Definitions.boxes.h"
-/Fo"U:\Projects\ChulaVista\chulavistajam\ue4\boxes\Intermediate\Build\Win64\UE4Editor\Development\boxes\boxesGameModeBase.cpp.obj"
+/I "C:\Program Files (x86)\Windows Kits\10\include\10.0.17763.0\ucrt"
+/I "C:\Program Files (x86)\Windows Kits\10\include\10.0.17763.0\shared"
+/I "C:\Program Files (x86)\Windows Kits\10\include\10.0.17763.0\um"
+/I "C:\Program Files (x86)\Windows Kits\10\include\10.0.17763.0\winrt"
+/FI"D:\Documents\New GitHub Repo\VRMay_10-14_2019\chulavistajam\ue4\boxes\Intermediate\Build\Win64\boxesEditor\Development\Engine\SharedPCH.Engine.h"
+/Yu"D:\Documents\New GitHub Repo\VRMay_10-14_2019\chulavistajam\ue4\boxes\Intermediate\Build\Win64\boxesEditor\Development\Engine\SharedPCH.Engine.h"
+/Fp"D:\Documents\New GitHub Repo\VRMay_10-14_2019\chulavistajam\ue4\boxes\Intermediate\Build\Win64\boxesEditor\Development\Engine\SharedPCH.Engine.h.pch"
+"D:\Documents\New GitHub Repo\VRMay_10-14_2019\chulavistajam\ue4\boxes\Source\boxes\boxesGameModeBase.cpp"
+/FI"D:\Documents\New GitHub Repo\VRMay_10-14_2019\chulavistajam\ue4\boxes\Intermediate\Build\Win64\UE4Editor\Development\boxes\Definitions.boxes.h"
+/Fo"D:\Documents\New GitHub Repo\VRMay_10-14_2019\chulavistajam\ue4\boxes\Intermediate\Build\Win64\UE4Editor\Development\boxes\boxesGameModeBase.cpp.obj"
 /TP
 /GR-
 /W4

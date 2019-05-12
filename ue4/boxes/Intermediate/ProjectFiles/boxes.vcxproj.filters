@@ -3,7 +3,7 @@
   <ItemGroup>
     <None Include="..\..\boxes.uproject" />
     <Filter Include="Source">
-      <UniqueIdentifier>{39A80F57-5869-41D2-80C8-20DA7701DE76}</UniqueIdentifier>
+      <UniqueIdentifier>{E7715945-B5AF-4D9B-8B2F-B662FFEE859B}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\Source\boxes.Target.cs">
       <Filter>Source</Filter>
@@ -12,7 +12,7 @@
       <Filter>Source</Filter>
     </None>
     <Filter Include="Config">
-      <UniqueIdentifier>{455609B6-7584-431F-A220-BCD4FA9C6542}</UniqueIdentifier>
+      <UniqueIdentifier>{130A67CD-70A6-4DC3-8D65-B60FD1CD42EA}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\Config\DefaultEditor.ini">
       <Filter>Config</Filter>
@@ -24,7 +24,7 @@
       <Filter>Config</Filter>
     </None>
     <Filter Include="Source\boxes">
-      <UniqueIdentifier>{568D612A-4CEA-4CE8-9AEB-B37011EEBE5D}</UniqueIdentifier>
+      <UniqueIdentifier>{C6651B67-B51B-4F7B-BA4D-0D6DC154138E}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\Source\boxes\boxes.Build.cs">
       <Filter>Source\boxes</Filter>
