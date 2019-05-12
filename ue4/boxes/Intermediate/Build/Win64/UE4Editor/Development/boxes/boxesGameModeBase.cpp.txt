@@ -1,7 +1,7 @@
-U:\Projects\ChulaVista\chulavistajam\ue4\boxes\Intermediate\Build\Win64\UE4Editor\Development\boxes\Definitions.boxes.h
-u:\projects\chulavista\chulavistajam\ue4\boxes\source\boxes\boxesGameModeBase.h
-U:\Engine\UE_4.22\Engine\Source\Runtime\Engine\Classes\GameFramework/GameModeBase.h
-U:\Engine\UE_4.22\Engine\Source\Runtime\Engine\Classes\Engine/ServerStatReplicator.h
-U:\Engine\UE_4.22\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\ServerStatReplicator.generated.h
-U:\Engine\UE_4.22\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\GameModeBase.generated.h
-U:\Projects\ChulaVista\chulavistajam\ue4\boxes\Intermediate\Build\Win64\UE4Editor\Inc\boxes\boxesGameModeBase.generated.h
+D:\Documents\New GitHub Repo\VRMay_10-14_2019\chulavistajam\ue4\boxes\Intermediate\Build\Win64\UE4Editor\Development\boxes\Definitions.boxes.h
+d:\documents\new github repo\vrmay_10-14_2019\chulavistajam\ue4\boxes\source\boxes\boxesGameModeBase.h
+D:\Program Files\UE_4.22\Engine\Source\Runtime\Engine\Classes\GameFramework/GameModeBase.h
+D:\Program Files\UE_4.22\Engine\Source\Runtime\Engine\Classes\Engine/ServerStatReplicator.h
+D:\Program Files\UE_4.22\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\ServerStatReplicator.generated.h
+D:\Program Files\UE_4.22\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\GameModeBase.generated.h
+D:\Documents\New GitHub Repo\VRMay_10-14_2019\chulavistajam\ue4\boxes\Intermediate\Build\Win64\UE4Editor\Inc\boxes\boxesGameModeBase.generated.h
